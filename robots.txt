@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gespiters.github.io/sitemap
+Sitemap: https://gespiters.github.io/app/sitemap
+Sitemap: https://gespiters.github.io/assets/sitemap
+Sitemap: https://gespiters.github.io/css/sitemap
+Sitemap: https://gespiters.github.io/includes/sitemap
+Sitemap: https://gespiters.github.io/item/sitemap
+Sitemap: https://gespiters.github.io/src/sitemap
